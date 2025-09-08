@@ -1,0 +1,17 @@
+fastapi[all]
+sqlalchemy
+asyncpg
+psycopg2-binary
+alembic
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+langchain
+langchain-ollama
+langchain-chroma
+pandas
+chromadb
+uvicorn
+python-dotenv
+jwt
+langchain-community
